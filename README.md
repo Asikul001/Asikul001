@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Asikul Ali <br>I'm a 👨‍💻 CSE Student<br>🔭 I’m currently working on Blockchain<br>🌱 I’m currently learning Blockchain<br>📫 How to reach me - bongsquad9083@gmail.com<br>A passionate frontend and backend developer from India<br>
+# Hi 👋, I'm Asikul Ali <br>
+Computer Science & Engineering Student<br>🔭 I’m currently working on Blockchain<br>🌱 I’m currently learning Blockchain<br>📫 How to reach me - bongsquad9083@gmail.com<br>A passionate frontend and backend developer from India<br>
 
 
 ## 🌐 Socials:
