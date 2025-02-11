@@ -1,5 +1,2 @@
-# Hi 👋, I'm Asikul Ali <br>
+ <div align="center"><h1>Hi 👋, I'm Asikul Ali </h1></div><br>
 📫 How to reach me - asikulali967@gmail.com<br>
-[![](https://visitcount.itsvg.in/api?id=Asikul001&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
